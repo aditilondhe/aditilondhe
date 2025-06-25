@@ -1,8 +1,6 @@
 <h1 align="left">Hey! I'm Aditi Londhe</h1>
 <h3 align="left">A passionate full-stack developer with a keen interest in design aspect of technology.</h3>
 
-- 🔭 I’m currently working on **Food Mood**
-
 - 📫 Reach me at:  **aditivlondhe@gmail.com**
 
 <p align="left">
